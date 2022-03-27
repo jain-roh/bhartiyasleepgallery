@@ -181,3 +181,91 @@ function scriptNavBottomBar(activeClasses){
 }
 
 }
+
+function populateGallery(){
+  var data=[
+
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_34.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  
+  
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_43.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_56.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+ 
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_3.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_2.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_72.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_1.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_39.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  },
+  
+ 
+  {
+    'img':'assets/img/portfolio/sleepwell_gallery_57.jpg',
+    'name':'App 1',
+    'details':'App',
+    'link':'customised.html',
+    'filter':'filter-test'
+  }
+]
+for (const image of data) {
+  document.getElementById('gallery').innerHTML+=`
+          <div class="col-lg-4 col-md-6 portfolio-item filter-test">
+            <img src="`+image['img']+`"class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>`+image['name']+`</h4>
+              <p`+image['details']+`</p>
+              <a href="`+image['img']+`" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="`+image['link']+`" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>`
+}
+}
