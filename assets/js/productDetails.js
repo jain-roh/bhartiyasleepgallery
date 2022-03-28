@@ -202,7 +202,7 @@
           'shopifyElementId':'product-component-1637966477742',
           'companyName':' Sleepwell',
           'productName':' Chester Sofa',
-          'images':['assets/img/sofas/CHESTER-1.JPG','assets/img/sofas/CHESTER-2.JPG'],
+          'images':['assets/img/sofas/CHESTER-1.jpg','assets/img/sofas/CHESTER-2.jpg'],
           'category':'Sofa and Accesories',
           'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
       },
@@ -213,7 +213,7 @@
         'shopifyElementId':'product-component-1637966477742',
         'companyName':' Sleepwell',
         'productName':' Sofa cum Bed',
-        'images':['assets/img/sofas/CUMBED-1.JPG','assets/img/sofas/CUMBED-2.JPG'],
+        'images':['assets/img/sofas/CUMBED-1.jpg','assets/img/sofas/CUMBED-2.jpg'],
         'category':'Sofa and Accesories',
         'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
     },
@@ -224,7 +224,7 @@
       'shopifyElementId':'product-component-1637966477742',
       'companyName':' Sleepwell',
       'productName':' L-Shape Sofa',
-      'images':['assets/img/sofas/L-SHAPE-1.JPG','assets/img/sofas/L-SHAPE-2.JPG'],
+      'images':['assets/img/sofas/L-SHAPE-1.jpg','assets/img/sofas/L-SHAPE-2.jpg'],
       'category':'Sofa and Accesories',
       'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
     },
@@ -235,7 +235,7 @@
     'shopifyElementId':'product-component-1637966477742',
     'companyName':' Sleepwell',
     'productName':' L-Shape Sofa',
-    'images':['assets/img/sofas/L-SHAPE-1.JPG','assets/img/sofas/L-SHAPE-2.JPG'],
+    'images':['assets/img/sofas/L-SHAPE-1.jpg','assets/img/sofas/L-SHAPE-2.jpg'],
     'category':'Sofa and Accesories',
     'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
     },
@@ -246,7 +246,7 @@
       'shopifyElementId':'product-component-1637966477742',
       'companyName':' Sleepwell',
       'productName':' Comfort Accesssories',
-      'images':['assets/img/sofas/L-SHAPE-1.JPG','assets/img/sofas/L-SHAPE-2.JPG'],
+      'images':['assets/img/sofas/L-SHAPE-1.jpg','assets/img/sofas/L-SHAPE-2.jpg'],
       'category':'Sofa and Accesories',
       'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
   }
@@ -305,7 +305,7 @@
       'shopifyElementId':'product-component-1637966477742',
       'companyName':' Sleepwell',
       'productName':' Wood & Chick Blind',
-      'images':['assets/img/blinds/wooden-1.JPG','assets/img/blinds/wooden-2.JPG'],
+      'images':['assets/img/blinds/wooden-1.jpg','assets/img/blinds/wooden-2.jpg'],
       'category':'Blinds',
       'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
   },
@@ -316,7 +316,7 @@
     'shopifyElementId':'product-component-1637966477742',
     'companyName':' Sleepwell',
     'productName':' Roman',
-    'images':['assets/img/blinds/roman-1.JPG','assets/img/blinds/roman-2.JPG'],
+    'images':['assets/img/blinds/roman-1.jpg','assets/img/blinds/roman-2.jpg'],
     'category':'Blinds',
     'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
 },
@@ -327,7 +327,7 @@
   'shopifyElementId':'product-component-1637966477742',
   'companyName':' Sleepwell',
   'productName':' Roller',
-  'images':['assets/img/blinds/roller-1.JPG','assets/img/blinds/roller-2.JPG'],
+  'images':['assets/img/blinds/roller-1.jpg','assets/img/blinds/roller-2.jpg'],
   'category':'Blinds',
   'keywords':'bed mattress, mattress price, sleepwell mattress, mattress near me, foam mattress, best mattress, memory foam mattress, orthopedic mattress, sofas, curtains, blinds'
 },
