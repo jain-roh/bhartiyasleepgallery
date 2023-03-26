@@ -97,13 +97,13 @@ function scriptNavBottomBar(activeClasses){
         </ul> -->
       </li>
     <!-- </li> -->
-    <li class="dropdown"><a class="stories" href="#"><span>Stories</span> <i class="bi bi-chevron-down"></i></a>
+    <!--<li class="dropdown"><a class="stories" href="#"><span>Stories</span> <i class="bi bi-chevron-down"></i></a>
       <ul>
         <li><a class="about" href="about.html">About</a></li>
         <li><a class="mission_vision" href="mission_vision.html">Mission & Vision</a></li>
         <li><a class="why_us" href="why_us.html">Why Us?</a></li>
       </ul>
-      </li>
+      </li>-->
       <li><a class="contact" href="contact.html">Contact</a></li>
    
     <!-- <li><a href="services.html">Services</a></li> -->
@@ -135,8 +135,8 @@ function scriptNavBottomBar(activeClasses){
         <h4>Useful Links</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="mission_vision.html">Mission & Vision</a></li>
+          <!--<li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="mission_vision.html">Mission & Vision</a></li>-->
           <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Contact</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="blog.html">Blogs</a></li>
         </ul>
