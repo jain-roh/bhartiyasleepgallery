@@ -110,7 +110,7 @@ function scriptNavBottomBar(activeClasses){
     <!-- <li><a href="testimonials.html">Testimonials</a></li> -->
     <!-- <li><a href="pricing.html">Pricing</a></li> -->
     <!-- <li><a href="portfolio.html">Portfolio</a></li> -->
-    <li><a class="blog" href="blog.html">Blog</a></li>
+    <!--<li><a class="blog" href="blog.html">Blog</a></li>-->
   </ul>
   <i class="bi bi-list mobile-nav-toggle"></i>
   `;
